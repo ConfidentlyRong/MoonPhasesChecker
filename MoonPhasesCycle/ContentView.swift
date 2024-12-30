@@ -16,6 +16,7 @@ struct ContentView: View {
             Text("The Moon is currently in the \(moonPhase) phase!")
                 .font(.largeTitle)
                 .padding()
+            Text("Testing")
             
             Text("The phase updates dynamically based on the lunar cycle.")
                 .font(.subheadline)
